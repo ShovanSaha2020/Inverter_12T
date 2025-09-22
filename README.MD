@@ -15,4 +15,4 @@ This project contains the design of a CMOS Inverter gate implemented in Cadence 
 
 Designed by Shovan Saha 
 
-Date: 25 September 2025
+Date: 22 September 2025
